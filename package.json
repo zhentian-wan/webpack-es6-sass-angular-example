@@ -1,0 +1,23 @@
+{
+  "name": "webpack-es6-sass-angular-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhentian-wan/webpack-es6-sass-angular-example.git"
+  },
+  "author": "Zhentian <answer881215@gmail.com> (http://zhentian.herokuapp.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhentian-wan/webpack-es6-sass-angular-example/issues"
+  },
+  "homepage": "https://github.com/zhentian-wan/webpack-es6-sass-angular-example#readme",
+  "devDependencies": {
+    "path-here": "1.1.0",
+    "webpack": "1.12.2"
+  }
+}
